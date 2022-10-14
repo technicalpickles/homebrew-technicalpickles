@@ -1,10 +1,10 @@
-# Technicalpickles Pickles
+# homebrew-technicalpickles
 
 ## How do I install these formulae?
 
-`brew install technicalpickles/pickles/<formula>`
+`brew install technicalpickles/technicalpickles/<formula>`
 
-Or `brew tap technicalpickles/pickles` and then `brew install <formula>`.
+Or `brew tap technicalpickles/technicalpickles` and then `brew install <formula>`.
 
 ## Documentation
 
