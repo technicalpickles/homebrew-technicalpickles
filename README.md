@@ -1,5 +1,8 @@
 # homebrew-technicalpickles
 
+Homebrew formula for things I use that I couldn't find elsewhere... especially if they aren't versioned (ie main only) 😁
+
+
 ## How do I install these formulae?
 
 `brew install technicalpickles/technicalpickles/<formula>`
