@@ -9,6 +9,8 @@ Homebrew formula for things I use that I couldn't find elsewhere... especially i
 
 Or `brew tap technicalpickles/technicalpickles` and then `brew install <formula>`.
 
+_some may need --HEAD_
+
 ## Documentation
 
 `brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
